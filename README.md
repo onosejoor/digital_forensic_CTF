@@ -2,7 +2,7 @@
 
 **Case Reference:** CASE-001-04-08-2026-V1  
 **Examiner:** Ejoor Onos Henry  
-**Agency/Unit:** Digital Forensics Laboratory, Pacestacks Systems  
+**Agency/Unit:** Digital Forensics Laboratory
 **Date of Report:** 5 August 2026  
 **Evidence Item:** `cartel.img` (USB Storage Device)  
 **Date of Acquisition:** 2 August 2026  
